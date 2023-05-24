@@ -1,0 +1,8 @@
+{
+    "name": "com.jinbei.scenesinbuild",
+    "author": "jinbei",
+    "version": "1.0.0",
+    "displayName": "AutoScenesInBuild",
+    "description": "Auto add and remove from Scenes In Build",
+    "unity": "2020.3"
+}
